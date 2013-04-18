@@ -1,0 +1,36 @@
+{
+  "name": "upper-bound",
+  "version": "0.0.0",
+  "description": "Find the index of the first element greater than x in a sorted array",
+  "main": "ub.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "~0.4.1"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/upper-bound.git"
+  },
+  "keywords": [
+    "upper",
+    "bound",
+    "binary",
+    "search",
+    "sorted",
+    "array",
+    "algorithm",
+    "divide",
+    "and",
+    "conquer"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "6a66546efcd37f6cc786ba354c0f2aa869bb977d"
+}
