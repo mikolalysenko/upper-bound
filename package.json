@@ -1,6 +1,6 @@
 {
   "name": "upper-bound",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Find the index of the first element greater than x in a sorted array",
   "main": "ub.js",
   "directories": {
