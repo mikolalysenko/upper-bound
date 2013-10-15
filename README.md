@@ -2,6 +2,10 @@ upper-bound
 ===========
 Finds the first item in a sorted array greater than a given value.
 
+# DEPRECATED
+
+Use [binary-search-bounds](https://github.com/mikolalysenko/binary-search-bounds) instead
+
 Use
 ===
 First install using npm:
